@@ -2,11 +2,11 @@
 
 ## DevOps ticket
 
-AB#***
+AB#
 
 ## How Has This Been Tested?
 
-- [ ] Local manual test
+- [ ] Manual test
 - [ ] Automation test
 
 ## Test script
