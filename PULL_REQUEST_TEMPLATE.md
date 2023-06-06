@@ -8,5 +8,6 @@ AB#
 
 - [ ] Manual test
 - [ ] Automation test
+- [ ] Security test
 
 ## Test script
